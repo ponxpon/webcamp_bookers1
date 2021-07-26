@@ -1,26 +1,12 @@
-# README
+# DMM WEBCAMP 「アプリケーションを完成させよう」
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 8章【課題：アプリケーションを作成してみよう：基礎編】
 
-Things you may want to cover:
+アプリケーション「Bookers」の作成
 
-* Ruby version
+### サイトテーマ
+読んだ本の感想を投稿するサイト
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-abc
+### 学習内容
+- 要件を確認しながら機能を実装
+- 作成したアプリケーションが要件を満たしているかをRSpecを使用してテストを実行
